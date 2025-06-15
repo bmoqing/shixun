@@ -1,0 +1,45 @@
+.video-js .vjs-big-play-button {
+	width: 72px;
+	height: 72px;
+	border-radius: 100%;
+	z-index: 100;
+	background-color: #ffffff;
+	border: solid 1px #979797;
+}
+
+.vjs-menu-content {
+	border-radius: 1.5px;
+}
+
+.vjs-menu-item {
+	height: 25px;
+	line-height: 25px!important;
+	
+}
+
+.vjs-tech {
+	height: 400px !important;
+	object-fit: fill;
+}
+
+.vjs_video_3 {
+	height: 100% !important;
+	object-fit: fill;
+}
+
+.vjs-custom-skin {
+	height: 400px;
+}
+
+.vjs-control-bar {
+	position: relative !important;
+	bottom: 0 !important;
+}
+.vjs-error-display, .vjs-modal-dialog, .vjs-text-track-display, .vjs-error {
+	height: 100% !important;
+	object-fit: fill;
+}
+.video-js .vjs-tech {
+	height: 100%!important;
+}
+
